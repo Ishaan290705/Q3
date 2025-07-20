@@ -1,4 +1,10 @@
+beautifulsoup4
+haversine
+shapely
+pdfplumber
 fastapi
 uvicorn
-pandas
 python-multipart
+scipy
+playwright
+easyocr
